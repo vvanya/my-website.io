@@ -1,0 +1,107 @@
+@media only screen and (max-width: 1600px) {
+	.wrapper {
+		width: auto;
+	}
+
+	form {
+		font-size: 20px;
+		width: 400px;
+	}
+
+	button {
+		font-size: 19px;
+	}
+	.btn {
+		font-size: 19px;
+	}
+
+	.text_me {
+		margin: 300px auto;
+	}
+
+	.text_not_me {
+		margin: 300px auto;
+	}
+}
+
+@media only screen and (max-width: 992px) {
+	.wrapper {
+		width: auto;
+	}
+
+	form {
+		font-size: 16px;
+		width: 350px;
+	}
+
+	button {
+		font-size: 16px;
+	}
+	.btn {
+		font-size: 16px;
+		padding: 7px 162px;
+	}
+
+	.text_me {
+		margin: 300px auto;
+	}
+
+	.text_not_me {
+		margin: 300px auto;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.wrapper {
+		width: auto;
+	}
+
+	form {
+		font-size: 20px;
+		width: 325px;
+	}
+
+	button {
+		font-size: 18px;
+	}
+	.btn {
+		font-size: 18px;
+		padding: 7px 148px;
+	}
+
+	.text_me {
+		margin: 170px auto;
+	}
+
+	.text_not_me {
+		margin: 170px auto;
+	}
+
+@media only screen and (max-width: 480px) {
+	.wrapper {
+		width: auto;
+	}
+
+	form {
+		font-size: 15px;
+		width: 225px;
+	}
+
+	button {
+		font-size: 14px;
+	}
+	.btn {
+		font-size: 14px;
+		padding: 7px 101px;
+	}
+
+	.text_me {
+		margin: 150px auto;
+	}
+
+	.text_not_me {
+		margin: 150px auto;
+	}
+}
+
+
